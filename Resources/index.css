@@ -10,9 +10,10 @@ h1,h2
 	color:#1f1f27;
 }
 
-h1{ font-size: 4em;}
+h1{ font-size: 6em;}
 
 p
 {
+	font-size: 1.5em;
 	margin-bottom:20px;
 }
