@@ -1,0 +1,16 @@
+body
+{
+	background-color:white;
+	color:#1f1f27;
+	font-family:sans-serif;
+}
+
+h1,h2
+{
+	color:#1f1f27;
+}
+
+p
+{
+	margin-bottom:20px;
+}
