@@ -11,16 +11,16 @@
             <id>initial</id>
             <url>index.html</url>
             <backgroundColor>#111</backgroundColor>
-			<icon>ti://featured</icon>
 			<barColor>#000</barColor>
+			<title>Dolar Paralelo</title>
 			<fullscreen>false</fullscreen>
         </window>
         <window>
             <id>about</id>
             <url>about.html</url>
             <backgroundColor>#111</backgroundColor>
-			<icon>ti://top rated</icon>
             <barColor>#000</barColor>
+            <title>¿Que es el Dolar Paralelo?</title>
 			<fullscreen>false</fullscreen>
         </window>
     </windows>

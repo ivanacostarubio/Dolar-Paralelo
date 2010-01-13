@@ -10,6 +10,10 @@ window.onload = function()
 };
 
 $(document).ready(function() {
-	$('h1').text("6.00");
+	
+	$.getJSON("dolarparalelo.heroku.com", function(json){
+		$('h1').text(json.dolar.compra);
+	});
+	
 });
 
