@@ -11,9 +11,14 @@ window.onload = function()
 
 $(document).ready(function() {
 	
-	$.getJSON("dolarparalelo.heroku.com", function(json){
-		$('h1').text(json.dolar.compra);
+	
+	
+	$.getJSON("http://dolarparalelo.heroku.com", function(json){
+		var dolar = json.dolar.compra;
+		$('h1').text(dolar);
+		
 	});
+	
 	
 });
 
