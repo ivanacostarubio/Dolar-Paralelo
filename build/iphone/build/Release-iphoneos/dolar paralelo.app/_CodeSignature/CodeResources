@@ -14,7 +14,7 @@
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
-		bf/u0zhllMw1kJRvSO8D3uj9PCI=
+		v+h2Ng8gQYzAPkNyOrKooMbTuM8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -28,6 +28,10 @@
 		<data>
 		0y2I0g5l2/DMBUUS0nDrxJVXYVA=
 		</data>
+		<key>default_app_logo.png</key>
+		<data>
+		k+f8myacG3lWzSKhLEsG/PlqmJ8=
+		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
 		asRGWQ+gvRMS71Nm/UiCprN7MzA=
@@ -36,9 +40,13 @@
 		<data>
 		EchGGgxzD1fgukg7CWpamBV4TFU=
 		</data>
+		<key>spinner.gif</key>
+		<data>
+		8q8GDxytvJBlyMRlxkjcAb5nzBI=
+		</data>
 		<key>tiapp.plist</key>
 		<data>
-		IjM4FhKM8g/9ObbxOjfsVfCrraY=
+		WwHffbtbcbJu/uRGrbMv21QZ9XY=
 		</data>
 	</dict>
 	<key>rules</key>

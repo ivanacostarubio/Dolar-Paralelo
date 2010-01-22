@@ -12,11 +12,10 @@ window.onload = function()
 $(document).ready(function() {
 	
 	
-	
 	$.getJSON("http://dolarparalelo.heroku.com", function(json){
 		var dolar = json.dolar.compra;
-		$('h1').text(dolar);
-		
+		$('.cambio').text(dolar);
+
 	});
 	
 	
