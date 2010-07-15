@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><ti:app xmlns:ti="http://ti.appcelerator.org">
 <id>com.bakedweb.dolarparalelo</id>
 <name>dolar paralelo</name>
-<version>0.5.1</version>
-<icon>default_app_logo.png</icon>
-	<persistent-wifi>false</persistent-wifi>
+<version>1.0</version>
+<icon>appicon.png</icon>
+	<persistent-wifi>true</persistent-wifi>
 	<prerendered-icon>false</prerendered-icon>
 	<statusbar-style>opaque</statusbar-style>
     <windows>
         <window>
-            <id>initial</id>
-            <url>index.html</url>
-            <backgroundColor>#111</backgroundColor>
-			<barColor>#000</barColor>
-			<title>Dolar Paralelo</title>
-			<fullscreen>false</fullscreen>
+          <id>compra</id>
+          <url>compra.html</url>
+          <backgroundColor>#111</backgroundColor>
+  	      <barColor>#000</barColor>
+  	      <title>Compra</title>
+  	      <fullscreen>false</fullscreen>
+        </window>
+        <window>
+          <id>venta</id>
+          <url>venta.html</url>
+          <backgroundColor>#111</backgroundColor>
+  			  <barColor>#000</barColor>
+    			<title>Venta</title>
+    			<fullscreen>false</fullscreen>
         </window>
         <window>
             <id>about</id>
             <url>about.html</url>
             <backgroundColor>#111</backgroundColor>
             <barColor>#000</barColor>
-            <title>¿Que es el Dolar Paralelo?</title>
-			<fullscreen>false</fullscreen>
+            <title>Dolar Paralelo</title>
+			      <fullscreen>false</fullscreen>
         </window>
     </windows>
 <guid>311a2bf0-2fc2-434c-bfa8-2c316867d574</guid>

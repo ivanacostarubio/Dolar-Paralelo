@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
+		</data>
 		<key>Default.png</key>
 		<data>
-		7ekgyFlBd3/6o744LFtIjKWYQPQ=
+		BtQeFWlm0QqkblFn3UyiDLdJeXQ=
 		</data>
 		<key>Entitlements.plist</key>
 		<data>
@@ -14,31 +18,51 @@
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
-		v+h2Ng8gQYzAPkNyOrKooMbTuM8=
+		Xc9oyDCA+hxYZ2qXnThUGjBTNsk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>about.html</key>
+		<data>
+		Ue3M09uI7TEs0+jc/8BKZNeBMow=
+		</data>
 		<key>appicon.png</key>
 		<data>
-		STlZOUKHmg3sZ2obxDJ6ksNc9Tc=
+		/9IOrJfa1shfNIbkNlJbtRq92wc=
 		</data>
 		<key>closebox.png</key>
 		<data>
-		0y2I0g5l2/DMBUUS0nDrxJVXYVA=
+		eqTdOImvdmvingb3BQNL8Zt174Q=
 		</data>
-		<key>default_app_logo.png</key>
+		<key>compra.html</key>
 		<data>
-		k+f8myacG3lWzSKhLEsG/PlqmJ8=
+		NXuDz0x6yFaZc2k03w8uRc51JgQ=
+		</data>
+		<key>compra.js</key>
+		<data>
+		mMoiyLc8xxxqDxvmRV9B+GZZkAA=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
 		asRGWQ+gvRMS71Nm/UiCprN7MzA=
 		</data>
+		<key>index.css</key>
+		<data>
+		pMprQplCa+FdXozV+OR0mQ6I+o4=
+		</data>
+		<key>jquery-1.3.2.js</key>
+		<data>
+		Pcn3wmQu//RILmjJ2d+HS/mPW8s=
+		</data>
 		<key>modules/ui/images/photoDefault.png</key>
 		<data>
-		EchGGgxzD1fgukg7CWpamBV4TFU=
+		nNsc3DhG4FmHTLHh2KTZy5Z9q+0=
+		</data>
+		<key>ouch_perdimosconexion.jpg</key>
+		<data>
+		CCR25somlh+2d9PSqgacr/6CLV8=
 		</data>
 		<key>spinner.gif</key>
 		<data>
@@ -46,7 +70,15 @@
 		</data>
 		<key>tiapp.plist</key>
 		<data>
-		WwHffbtbcbJu/uRGrbMv21QZ9XY=
+		sJi64Uz4ZIOT97POB5Ig2DIswls=
+		</data>
+		<key>venta.html</key>
+		<data>
+		VC/yyCygPx+99b7nUwNM+zy5cFQ=
+		</data>
+		<key>venta.js</key>
+		<data>
+		n61lPeZOpAJb12VYbGqKLpyM6FA=
 		</data>
 	</dict>
 	<key>rules</key>

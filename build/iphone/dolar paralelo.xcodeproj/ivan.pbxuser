@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* dolar paralelo */ = {
+		activeExec = 0;
+		executables = (
+			2CB2F966118A067A00C6EEA0 /* dolar paralelo */,
+		);
+	};
+	2418F31D0FCB095700BFE545 /* ApplicationRouting.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 402}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 680}";
+		};
+	};
+	2418F31E0FCB095700BFE545 /* ApplicationRouting.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {806713, 1378}}";
+			sepNavSelRange = "{316, 0}";
+			sepNavVisRange = "{0, 800}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2CB2F966118A067A00C6EEA0 /* dolar paralelo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* dolar paralelo */;
+		codeSenseManager = 2CB2FD8A118A068E00C6EEA0 /* Code sense */;
+		executables = (
+			2CB2F966118A067A00C6EEA0 /* dolar paralelo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					667,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294258298;
+			PBXWorkspaceStateSaveDate = 294258298;
+		};
+		perUserProjectItems = {
+			2CB2FD8F118A085500C6EEA0 /* PBXTextBookmark */ = 2CB2FD8F118A085500C6EEA0 /* PBXTextBookmark */;
+			2CB2FD90118A085500C6EEA0 /* PBXBookmark */ = 2CB2FD90118A085500C6EEA0 /* PBXBookmark */;
+			2CB2FD91118A085500C6EEA0 /* PBXTextBookmark */ = 2CB2FD91118A085500C6EEA0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2CB2FD89118A068E00C6EEA0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1109, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1006}";
+			sepNavWindowFrame = "{{15, 4}, {1168, 874}}";
+		};
+	};
+	2CB2F966118A067A00C6EEA0 /* dolar paralelo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "dolar paralelo";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2CB2FD89118A068E00C6EEA0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2CB2FD8A118A068E00C6EEA0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2CB2FD8F118A085500C6EEA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2418F31D0FCB095700BFE545 /* ApplicationRouting.h */;
+		name = "ApplicationRouting.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	2CB2FD90118A085500C6EEA0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2418F31E0FCB095700BFE545 /* ApplicationRouting.m */;
+	};
+	2CB2FD91118A085500C6EEA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2418F31E0FCB095700BFE545 /* ApplicationRouting.m */;
+		name = "ApplicationRouting.m: 11";
+		rLen = 0;
+		rLoc = 316;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 0;
+	};
+	32CA4F630368D1EE00C91783 /* dolar paralelo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1109, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 134}";
+			sepNavWindowFrame = "{{15, 4}, {1168, 874}}";
+		};
+	};
+}

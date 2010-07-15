@@ -16,9 +16,11 @@
 }
 - (NSData*) resolveAppAsset:(NSURL*)url;
 - (NSData*) pageNamedAbout;
+- (NSData*) pageNamedCompra;
+- (NSData*) scriptNamedCompra;
 - (NSData*) styleNamedIndex;
-- (NSData*) pageNamedIndex;
-- (NSData*) scriptNamedIndex;
 - (NSData*) scriptNamedJquery_1_3_2;
+- (NSData*) pageNamedVenta;
+- (NSData*) scriptNamedVenta;
 
 @end
