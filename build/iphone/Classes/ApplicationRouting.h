@@ -1,26 +1,10 @@
 /**
  * Appcelerator Titanium Mobile
  * This is generated code. Do not modify. Your changes will be lost.
- * Generated code is Copyright (c) 2009 by Appcelerator, Inc.
- * All Rights Reserved.
  */
 #import <Foundation/Foundation.h>
 
-@protocol TitaniumAppAssetResolver
-- (NSData*) resolveAppAsset:(NSURL*)url;
-- (oneway void)release;
-- (id)retain;
-@end
-
-@interface ApplicationRouting : NSObject<TitaniumAppAssetResolver> {
+@interface ApplicationRouting : NSObject {
 }
-- (NSData*) resolveAppAsset:(NSURL*)url;
-- (NSData*) pageNamedAbout;
-- (NSData*) pageNamedCompra;
-- (NSData*) scriptNamedCompra;
-- (NSData*) styleNamedIndex;
-- (NSData*) scriptNamedJquery_1_3_2;
-- (NSData*) pageNamedVenta;
-- (NSData*) scriptNamedVenta;
-
++ (NSData*) resolveAppAsset:(NSString*)path;
 @end
